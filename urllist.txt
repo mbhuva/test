@@ -1,0 +1,14 @@
+User Profile
+
+User Info: http://27.109.11.53/grooveyak/index.php?option=scripts&view=userprofile&task=getalluser
+
+User login Info:http://27.109.11.53/grooveyak/index.php?option=scripts&view=userprofile&task=checkloginuser&username=test&password=test
+
+User Registration: http://27.109.11.53/grooveyak/index.php?option=scripts&view=userprofile&task=registrationnewuser&username=test1&email=test1234@gmail.com&password=test123&active=1
+
+Insert Avatar:-http://27.109.11.53/grooveyak/index.php?option=scripts&view=userprofile&task=upload_image&uid=1
+
+
+User Logout:-
+
+User Active Deactive:
